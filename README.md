@@ -1,4 +1,4 @@
-# Olá, me chamo Pedro Henrique Fadamelli ! 
+# Olá, me chamo Pedro Henrique Fadanelli ! 
 ## Bem vindo ao meu perfil GitHub 👋
 
 <div>
